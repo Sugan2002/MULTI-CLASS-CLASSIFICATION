@@ -19,11 +19,22 @@ In multi-class classification, the neural network has the same number of output 
 The number of classifier models depends on the classification technique we are applying to. •One vs. All:- N-class instances then N binary classifier models •One vs. One:- N-class instances then N* (N-1)/2 binary classifier models •The Confusion matrix is easy to derive but complex to understand.
 
 ## Algorithm
+
 1. Define dataset with centers=3 
 2. Summarize dataset shape 
 3. Summarize observations by class label 
 4. Summarize first few examples 
 5. Plot the dataset and color the by class label
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Program:
 ```python
@@ -51,6 +62,28 @@ pyplot.legend()
 pyplot.show()
 
 ```
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Output:
 ![output](./static/img/expO3NN.PNG)
 
